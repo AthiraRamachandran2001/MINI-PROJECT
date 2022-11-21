@@ -1,1 +1,1 @@
-# MINI-PROJECT
+Gas leakage detection and monitoring system detects the presence of gas leakage. The system reads data from the gas sensor. Whenever the leakage exceeds a certain limit, it alerts by ringing a buzzer.  And the sensor readings are graphically displayed with the help of a ThingSpeak cloud platform. And a alert message is also send if the leakage exceeds a threshold value.
